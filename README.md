@@ -1,7 +1,7 @@
 # Course-Project-2
 Peer Graded Assignment Course Project 2 - Week 4 Exploratory Data Analysis
 
-The Git Hub URL for this assignement is: https://github.com/MichaelEsparza012/Course-Project-2
+The Git Hub URL for this assignment is: https://github.com/MichaelEsparza012/Course-Project-2
 
 Data Frame provided: "summarySCC_PM25.RDS" and "Source_Classification_Code.rds" available at: "Data for Peer Assessment."
 
