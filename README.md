@@ -216,6 +216,8 @@ Totals
 
 #Second Course of Action (COA) is subset motor vehicles in Baltimore City, Maryland.
 
++      baltVehiclesNEI <- vehiclesNEI[vehiclesNEI$fips==24510,]
+
 #To complete the analysis, we call ggplot2 and plot the prepared data.
 
 +     library(ggplot2)
